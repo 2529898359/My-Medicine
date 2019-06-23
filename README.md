@@ -12,6 +12,12 @@ Primary care physician
   My preference: PCP is my first choice so far. I want to become a D.O and become a PCP in a rural area.
 
 Cardiologist
+  Job highlights: Cardiology is a branch of internal medicine, which similar to PCP because they all focuse on examing the symptom, giving treatment if needed, refer to a cardiac surgeon is needed, and help patients to prevent cardiovascular diseases. One unique part of a cardiologist is that they are able to perform  precedures like heart catheterization. Although this is not considered a surgery, it still requires hand-on skills. Another big part of a cardiologist is that they are responsibile for giving healthy diet routine for the patients. FYI, cardiologist is like a personal doctor for the patients. Despite they might refer the patient to a surgeon, they are the one that keep track with patients condition and get back to them after the surgery is done.
+  Disease that cardiologist treats: primarily all heart diseases. There are branches inside cardiology such as pedeiatric cardiology, adult cardiology, or interventional cardiology. Some common diseases that cardiologists treat are Congenital heart disease, Arrhythmia, Coronary artery disease, Dilated cardiomyopathy, Myocardial infarction, Heart failure, Hypertrophic cardiomyopathy, Mitral regurgitation, and Mitral valve prolapse.
+  Pros of being a cardiologist: a lot of patients interactions. It is a good specialty for doctors who dislike surgery and prefer more in disease diagonsis and prevention. Also, like I said before cardiologist perform precedures to the patients, and this is a highlight where PCP lacks. Cardiologist has to learn how to do exam, how to read images and diagrams. Overall, there are a lot of varieties in what cardiologists do as their job.
+  Cons of being a cardiologist: Cardiologist might be on call all to the ER most of the time since there are a lot of patients who come to the ER with a heart attack. The working hours might be long too. 
+  
+  Neurologist:
 
   
   
