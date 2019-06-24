@@ -4,11 +4,17 @@ Medicine, doctor, patient... these are the words that I have never thought of un
 
 # Fields of medicine that I am interested: Primary care (internal medicine), cardiology, neurology
 Primary care physician
+  
   Job highlight: PCP provide first contact medical care to the patients. They are the ones that exam patients' synptoms fist and determine the potential causes, origins, effects of future healtha, and treatment. PCP's does not perform operations, but they have the responsibility to referal patients to the doctors that specialize in other fields based on their opinions on patients' wellbeings. In addition, PCP provides yearly exams to healthy family. This part of the duty highlights the disease prevention aspect of PCP.
+  
   Disease that PCP treats: PCP treats everything, mostly diabetes, cardiovascular disease, hypertension, high cholesterol, headaches, and abdominal pain. It is important to note that many of these diseases are more prevention focused rather than providing treatment. Also, helping to reduce patients stress and improve their mental healths is another aspect of PCP. 
+  
   Benefits for being a PCP: I like the fact that PCP literally treat everything. They get to know all the physiology of human body and learn the mechanism of individual body structures as a whole. It is interesting if PCP connects all the knowledge they learn when treating the patients. Moreover, PCP have a really good work-life balance. Unlike other doctors who don't have regular working hours and sometimes might be call back to emergency room, PCP have fixed working schedules, and they usually don't work for so long time(less than 12hrs). Another benefits of being a PCP is that they are the very few type of doctors who has a lot of patient interaction as part of their job. I prefer more to communicate with patients than operating surgery. 
+  
   Disadvantages of being a PCP: PCP know a lot of physiology but they don't go in depth. They are only required to have enough knowledge to give the first care to the patients. In other words, the knowledge that PCP have are very broad but shallow at the same time. This disadvantage sometimes evoke PCP's interest in specializing one area and become a spcialist, thus resulting PCP shortage. Another disadvantage is that many doctors might want to have both operation and patients interaction as part of their job. Many might want to do surgery to the patients. 
+  
   Job outlook: estimate to have 15% job growth in the next 20 years.
+  
   My preference: PCP is my first choice so far. I want to become a D.O and become a PCP in a rural area.
 
 Cardiologist
